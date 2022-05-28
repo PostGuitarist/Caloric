@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C898FD72842A61A00D93058 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C898FD62842A61A00D93058 /* HomeView.swift */; };
+		0C898FD92842A62C00D93058 /* DiaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C898FD82842A62C00D93058 /* DiaryView.swift */; };
+		0C898FDB2842A63700D93058 /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C898FDA2842A63700D93058 /* ProgressView.swift */; };
+		0C898FDD2842A63F00D93058 /* MoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C898FDC2842A63F00D93058 /* MoreView.swift */; };
+		0C898FDF2842AE9C00D93058 /* TopControlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C898FDE2842AE9C00D93058 /* TopControlView.swift */; };
 		0CC621CE283AD5CB00A88957 /* MyFitnessPal_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC621CD283AD5CB00A88957 /* MyFitnessPal_SwiftUIApp.swift */; };
 		0CC621D0283AD5CB00A88957 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC621CF283AD5CB00A88957 /* ContentView.swift */; };
 		0CC621D2283AD5CD00A88957 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CC621D1283AD5CD00A88957 /* Assets.xcassets */; };
@@ -14,6 +19,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C898FD62842A61A00D93058 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		0C898FD82842A62C00D93058 /* DiaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryView.swift; sourceTree = "<group>"; };
+		0C898FDA2842A63700D93058 /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
+		0C898FDC2842A63F00D93058 /* MoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreView.swift; sourceTree = "<group>"; };
+		0C898FDE2842AE9C00D93058 /* TopControlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopControlView.swift; sourceTree = "<group>"; };
 		0CC621CA283AD5CB00A88957 /* MyFitnessPal-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MyFitnessPal-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CC621CD283AD5CB00A88957 /* MyFitnessPal_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFitnessPal_SwiftUIApp.swift; sourceTree = "<group>"; };
 		0CC621CF283AD5CB00A88957 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,6 +42,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0C44303E2842A446005823A1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0CC621CF283AD5CB00A88957 /* ContentView.swift */,
+				0C898FD62842A61A00D93058 /* HomeView.swift */,
+				0C898FD82842A62C00D93058 /* DiaryView.swift */,
+				0C898FDA2842A63700D93058 /* ProgressView.swift */,
+				0C898FDC2842A63F00D93058 /* MoreView.swift */,
+				0C898FDE2842AE9C00D93058 /* TopControlView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		0CC621C1283AD5CB00A88957 = {
 			isa = PBXGroup;
 			children = (
@@ -52,7 +75,7 @@
 			isa = PBXGroup;
 			children = (
 				0CC621CD283AD5CB00A88957 /* MyFitnessPal_SwiftUIApp.swift */,
-				0CC621CF283AD5CB00A88957 /* ContentView.swift */,
+				0C44303E2842A446005823A1 /* Views */,
 				0CC621D1283AD5CD00A88957 /* Assets.xcassets */,
 				0CC621D3283AD5CD00A88957 /* Preview Content */,
 			);
@@ -137,7 +160,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C898FD72842A61A00D93058 /* HomeView.swift in Sources */,
+				0C898FDD2842A63F00D93058 /* MoreView.swift in Sources */,
 				0CC621D0283AD5CB00A88957 /* ContentView.swift in Sources */,
+				0C898FDF2842AE9C00D93058 /* TopControlView.swift in Sources */,
+				0C898FDB2842A63700D93058 /* ProgressView.swift in Sources */,
+				0C898FD92842A62C00D93058 /* DiaryView.swift in Sources */,
 				0CC621CE283AD5CB00A88957 /* MyFitnessPal_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
