@@ -12,6 +12,16 @@
 		0C898FDB2842A63700D93058 /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C898FDA2842A63700D93058 /* ProgressView.swift */; };
 		0C898FDD2842A63F00D93058 /* MoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C898FDC2842A63F00D93058 /* MoreView.swift */; };
 		0C898FDF2842AE9C00D93058 /* TopControlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C898FDE2842AE9C00D93058 /* TopControlView.swift */; };
+		0C9533E9284C555E00F9B231 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C9533E8284C555E00F9B231 /* TabBarView.swift */; };
+		0C98CD5B284AAD42004DD565 /* Home_Nutrition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C98CD5A284AAD42004DD565 /* Home_Nutrition.swift */; };
+		0C98CD5D284AAD4E004DD565 /* Home_WaterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C98CD5C284AAD4E004DD565 /* Home_WaterView.swift */; };
+		0C98CD5F284AAD60004DD565 /* Home_WalkingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C98CD5E284AAD60004DD565 /* Home_WalkingView.swift */; };
+		0C98CD61284AAD6A004DD565 /* Home_ExerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C98CD60284AAD6A004DD565 /* Home_ExerciseView.swift */; };
+		0C98CD64284AADCA004DD565 /* Diary_MacroGoalsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C98CD63284AADCA004DD565 /* Diary_MacroGoalsView.swift */; };
+		0C98CD66284AADE2004DD565 /* Diary_BreakfastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C98CD65284AADE2004DD565 /* Diary_BreakfastView.swift */; };
+		0C98CD68284AADEA004DD565 /* Diary_LunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C98CD67284AADEA004DD565 /* Diary_LunchView.swift */; };
+		0C98CD6A284AADF1004DD565 /* Diary_DinnerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C98CD69284AADF1004DD565 /* Diary_DinnerView.swift */; };
+		0C98CD6C284AADFD004DD565 /* Diary_SnacksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C98CD6B284AADFD004DD565 /* Diary_SnacksView.swift */; };
 		0CC621CE283AD5CB00A88957 /* MyFitnessPal_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC621CD283AD5CB00A88957 /* MyFitnessPal_SwiftUIApp.swift */; };
 		0CC621D0283AD5CB00A88957 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC621CF283AD5CB00A88957 /* ContentView.swift */; };
 		0CC621D2283AD5CD00A88957 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CC621D1283AD5CD00A88957 /* Assets.xcassets */; };
@@ -24,6 +34,16 @@
 		0C898FDA2842A63700D93058 /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
 		0C898FDC2842A63F00D93058 /* MoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreView.swift; sourceTree = "<group>"; };
 		0C898FDE2842AE9C00D93058 /* TopControlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopControlView.swift; sourceTree = "<group>"; };
+		0C9533E8284C555E00F9B231 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		0C98CD5A284AAD42004DD565 /* Home_Nutrition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home_Nutrition.swift; sourceTree = "<group>"; };
+		0C98CD5C284AAD4E004DD565 /* Home_WaterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home_WaterView.swift; sourceTree = "<group>"; };
+		0C98CD5E284AAD60004DD565 /* Home_WalkingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home_WalkingView.swift; sourceTree = "<group>"; };
+		0C98CD60284AAD6A004DD565 /* Home_ExerciseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home_ExerciseView.swift; sourceTree = "<group>"; };
+		0C98CD63284AADCA004DD565 /* Diary_MacroGoalsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diary_MacroGoalsView.swift; sourceTree = "<group>"; };
+		0C98CD65284AADE2004DD565 /* Diary_BreakfastView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diary_BreakfastView.swift; sourceTree = "<group>"; };
+		0C98CD67284AADEA004DD565 /* Diary_LunchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diary_LunchView.swift; sourceTree = "<group>"; };
+		0C98CD69284AADF1004DD565 /* Diary_DinnerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diary_DinnerView.swift; sourceTree = "<group>"; };
+		0C98CD6B284AADFD004DD565 /* Diary_SnacksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diary_SnacksView.swift; sourceTree = "<group>"; };
 		0CC621CA283AD5CB00A88957 /* MyFitnessPal-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MyFitnessPal-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CC621CD283AD5CB00A88957 /* MyFitnessPal_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFitnessPal_SwiftUIApp.swift; sourceTree = "<group>"; };
 		0CC621CF283AD5CB00A88957 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -50,9 +70,43 @@
 				0C898FD82842A62C00D93058 /* DiaryView.swift */,
 				0C898FDA2842A63700D93058 /* ProgressView.swift */,
 				0C898FDC2842A63F00D93058 /* MoreView.swift */,
-				0C898FDE2842AE9C00D93058 /* TopControlView.swift */,
+				0C98CD59284AACBE004DD565 /* ContentViews */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		0C98CD59284AACBE004DD565 /* ContentViews */ = {
+			isa = PBXGroup;
+			children = (
+				0C898FDE2842AE9C00D93058 /* TopControlView.swift */,
+				0C9533E8284C555E00F9B231 /* TabBarView.swift */,
+				0C98CD62284AADAD004DD565 /* HomeContent */,
+				0C98CD6D284AAE01004DD565 /* DiaryContent */,
+			);
+			path = ContentViews;
+			sourceTree = "<group>";
+		};
+		0C98CD62284AADAD004DD565 /* HomeContent */ = {
+			isa = PBXGroup;
+			children = (
+				0C98CD5A284AAD42004DD565 /* Home_Nutrition.swift */,
+				0C98CD5C284AAD4E004DD565 /* Home_WaterView.swift */,
+				0C98CD5E284AAD60004DD565 /* Home_WalkingView.swift */,
+				0C98CD60284AAD6A004DD565 /* Home_ExerciseView.swift */,
+			);
+			path = HomeContent;
+			sourceTree = "<group>";
+		};
+		0C98CD6D284AAE01004DD565 /* DiaryContent */ = {
+			isa = PBXGroup;
+			children = (
+				0C98CD63284AADCA004DD565 /* Diary_MacroGoalsView.swift */,
+				0C98CD65284AADE2004DD565 /* Diary_BreakfastView.swift */,
+				0C98CD67284AADEA004DD565 /* Diary_LunchView.swift */,
+				0C98CD69284AADF1004DD565 /* Diary_DinnerView.swift */,
+				0C98CD6B284AADFD004DD565 /* Diary_SnacksView.swift */,
+			);
+			path = DiaryContent;
 			sourceTree = "<group>";
 		};
 		0CC621C1283AD5CB00A88957 = {
@@ -160,12 +214,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C9533E9284C555E00F9B231 /* TabBarView.swift in Sources */,
+				0C98CD64284AADCA004DD565 /* Diary_MacroGoalsView.swift in Sources */,
+				0C98CD66284AADE2004DD565 /* Diary_BreakfastView.swift in Sources */,
 				0C898FD72842A61A00D93058 /* HomeView.swift in Sources */,
+				0C98CD61284AAD6A004DD565 /* Home_ExerciseView.swift in Sources */,
 				0C898FDD2842A63F00D93058 /* MoreView.swift in Sources */,
+				0C98CD68284AADEA004DD565 /* Diary_LunchView.swift in Sources */,
 				0CC621D0283AD5CB00A88957 /* ContentView.swift in Sources */,
+				0C98CD6C284AADFD004DD565 /* Diary_SnacksView.swift in Sources */,
+				0C98CD5F284AAD60004DD565 /* Home_WalkingView.swift in Sources */,
+				0C98CD5D284AAD4E004DD565 /* Home_WaterView.swift in Sources */,
+				0C98CD5B284AAD42004DD565 /* Home_Nutrition.swift in Sources */,
 				0C898FDF2842AE9C00D93058 /* TopControlView.swift in Sources */,
 				0C898FDB2842A63700D93058 /* ProgressView.swift in Sources */,
 				0C898FD92842A62C00D93058 /* DiaryView.swift in Sources */,
+				0C98CD6A284AADF1004DD565 /* Diary_DinnerView.swift in Sources */,
 				0CC621CE283AD5CB00A88957 /* MyFitnessPal_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
