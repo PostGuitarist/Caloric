@@ -202,5 +202,5 @@ Project Link: [https://github.com/postguitarist/MyFitnessPal-SwiftUI](https://gi
 [license-shield]: https://img.shields.io/github/license/postguitarist/MyFitnessPal-SwiftUI.svg?style=for-the-badge
 [license-url]: https://github.com/postguitarist/MyFitnessPal-SwiftUI/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/zaden-connell-a46a411ab
+[linkedin-url]: https://linkedin.com/in/zaden-connell
 [product-screenshot]: images/screenshot.png
