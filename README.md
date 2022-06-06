@@ -68,22 +68,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Swift](https://www.swift.org/)
+* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -169,7 +161,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the **** License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -178,7 +170,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@ConnellZaden](https://twitter.com/ConnellZaden) - zaden.connell@gmail.com
+Zaden Connell - [@ConnellZaden](https://twitter.com/ConnellZaden) - zaden.connell@gmail.com
 
 Project Link: [https://github.com/postguitarist/MyFitnessPal-SwiftUI](https://github.com/postguitarist/MyFitnessPal-SwiftUI)
 
