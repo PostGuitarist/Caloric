@@ -22,7 +22,6 @@ struct TopControlView: View {
             Image(systemName: "bell.badge")
                 .padding()
         }
-        
     }
 }
 

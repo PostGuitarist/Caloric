@@ -14,6 +14,7 @@ struct ContentView: View {
                 .ignoresSafeArea()
             VStack {
                 TopControlView()
+                    .background(.ultraThinMaterial)
                 Spacer()
                 HomeView()
             

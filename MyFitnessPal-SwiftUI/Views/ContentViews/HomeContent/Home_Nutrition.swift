@@ -9,25 +9,7 @@ import SwiftUI
 
 struct Home_Nutrition: View {
     var body: some View {
-        ZStack {
-            RoundedRectangle(cornerRadius: 35)
-                .frame(width: 350, height: 150)
-                .foregroundColor(Color.red)
-            VStack {
-                HStack {
-                    Text("Macro Goals")
-                        .bold()
-                        .padding()
-                    
-                    Image(systemName: "ellipsis")
-                        .padding()
-                }
-                
-                HStack {
-                    Text("test")
-                }
-            }
-        }
+        Text("Hello World!")
     }
 }
 
