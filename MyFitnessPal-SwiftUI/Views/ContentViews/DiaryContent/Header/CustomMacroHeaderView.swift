@@ -9,15 +9,16 @@ import SwiftUI
 
 struct CustomMacroHeaderView: View {
     var body: some View {
-        ZStack {
-            VStack(spacing: -35) {
-                RoundedRectangle(cornerRadius: 40)
-                    .frame(width: 350, height: 100)
-                    .foregroundColor(Color.blue)
-                
-                //Rectangle()
-                    //.frame(width: 350, height: 300)
-            }
+        VStack(spacing: -300) {
+            RoundedRectangle(cornerRadius: 30)
+                .trim(from: 0, to: 0.5)
+                .frame(width: 350, height: 400)
+            
+            RoundedRectangle(cornerRadius: 30)
+                .trim(from: 0.5, to: 1)
+                .frame(width: 350, height: 125)
+                .foregroundColor(Color.blue)
+
         }
     }
 }
