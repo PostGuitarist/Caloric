@@ -87,30 +87,6 @@
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/postguitarist/MyFitnessPal-SwiftUI.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -203,4 +179,4 @@ Project Link: [https://github.com/postguitarist/MyFitnessPal-SwiftUI](https://gi
 [license-url]: https://github.com/postguitarist/MyFitnessPal-SwiftUI/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zaden-connell
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/overview.png
