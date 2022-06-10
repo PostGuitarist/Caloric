@@ -12,25 +12,24 @@ struct Diary_MacroGoalsView: View {
         ZStack {
             RoundedRectangle(cornerRadius: 35)
                 .frame(width: 350, height: 150)
-                .foregroundColor(Color.red)
+                .foregroundColor(Color.white)
             VStack(alignment: .leading, spacing: 15) {
                 HStack(alignment: .center, spacing: 150) {
                     Text("Macro Goals")
                         .font(.title2.bold())
                     
                     Image(systemName: "ellipsis")
+                        .foregroundColor(Color.blue)
                 }
                 
                 
                 HStack(alignment: .center, spacing: 40) {
-                    Circle()
-                        .fill(.cyan)
+                    CarbsProgressBarView()
+                        
                         .frame(width: 75, height: 75)
-                    Circle()
-                        .fill(.pink)
+                    ProteinProgressBarView()
                         .frame(width: 75, height: 75)
-                    Circle()
-                        .fill(.yellow)
+                    FatProgressBarView()
                         .frame(width: 75, height: 75)
                 }
             }
