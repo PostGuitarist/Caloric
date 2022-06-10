@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C18BC2D2853DA6A00D5CA59 /* CustomMacroHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C18BC2C2853DA6900D5CA59 /* CustomMacroHeaderView.swift */; };
 		0C603E7C2852A95800762A98 /* CarbsProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C603E7B2852A95800762A98 /* CarbsProgressBarView.swift */; };
 		0C603E852852AE1700762A98 /* ProteinProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C603E842852AE1700762A98 /* ProteinProgressBarView.swift */; };
 		0C603E872852AEAE00762A98 /* FatProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C603E862852AEAE00762A98 /* FatProgressBarView.swift */; };
@@ -32,6 +33,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C18BC2C2853DA6900D5CA59 /* CustomMacroHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomMacroHeaderView.swift; sourceTree = "<group>"; };
 		0C603E7B2852A95800762A98 /* CarbsProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarbsProgressBarView.swift; sourceTree = "<group>"; };
 		0C603E842852AE1700762A98 /* ProteinProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProteinProgressBarView.swift; sourceTree = "<group>"; };
 		0C603E862852AEAE00762A98 /* FatProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FatProgressBarView.swift; sourceTree = "<group>"; };
@@ -68,6 +70,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0C18BC2E2853DA6E00D5CA59 /* Header */ = {
+			isa = PBXGroup;
+			children = (
+				0C18BC2C2853DA6900D5CA59 /* CustomMacroHeaderView.swift */,
+			);
+			path = Header;
+			sourceTree = "<group>";
+		};
 		0C44303E2842A446005823A1 /* Views */ = {
 			isa = PBXGroup;
 			children = (
@@ -121,6 +131,7 @@
 				0C98CD67284AADEA004DD565 /* Diary_LunchView.swift */,
 				0C98CD69284AADF1004DD565 /* Diary_DinnerView.swift */,
 				0C98CD6B284AADFD004DD565 /* Diary_SnacksView.swift */,
+				0C18BC2E2853DA6E00D5CA59 /* Header */,
 			);
 			path = DiaryContent;
 			sourceTree = "<group>";
@@ -257,6 +268,7 @@
 				0C898FDF2842AE9C00D93058 /* TopControlView.swift in Sources */,
 				0C898FDB2842A63700D93058 /* ProgressView.swift in Sources */,
 				0C898FD92842A62C00D93058 /* DiaryView.swift in Sources */,
+				0C18BC2D2853DA6A00D5CA59 /* CustomMacroHeaderView.swift in Sources */,
 				0C98CD6A284AADF1004DD565 /* Diary_DinnerView.swift in Sources */,
 				0CC621CE283AD5CB00A88957 /* MyFitnessPal_SwiftUIApp.swift in Sources */,
 			);
