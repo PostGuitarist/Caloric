@@ -9,7 +9,7 @@ import SwiftUI
 
 struct TopControlView: View {
     var body: some View {
-        HStack{
+        HStack {
             Image(systemName: "text.justify.left")
                 .padding()
             Spacer()
@@ -22,6 +22,7 @@ struct TopControlView: View {
             Image(systemName: "bell.badge")
                 .padding()
         }
+        //.background(Color(red: 219 / 255, green: 236 / 255, blue: 255 / 255))
     }
 }
 

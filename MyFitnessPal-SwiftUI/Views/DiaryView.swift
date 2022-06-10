@@ -11,21 +11,7 @@ struct DiaryView: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 20) {
-                RoundedRectangle(cornerRadius: 35)
-                    .fill(.white)
-                    .frame(width: 350, height: 150)
-                
-                RoundedRectangle(cornerRadius: 35)
-                    .fill(.white)
-                    .frame(width: 350, height: 300)
-                
-                RoundedRectangle(cornerRadius: 35)
-                    .fill(.white)
-                    .frame(width: 350, height: 300)
-                
-                RoundedRectangle(cornerRadius: 35)
-                    .fill(.white)
-                    .frame(width: 350, height: 300)
+                Diary_MacroGoalsView()
             }
         }
     }
