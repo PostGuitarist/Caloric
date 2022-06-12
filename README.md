@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/postguitarist/MyFitnessPal-SwiftUI">
+  <a href="https://github.com/postguitarist/Tracked">
     <img src="images/logo-main.png" alt="Logo" width="900" height="150">
   </a>
 
@@ -22,14 +22,14 @@
   <p align="center">
     A new Calorie and Macro Tracking App using Apple's Swift language and SwiftUI framework
     <br />
-    <a href="https://github.com/postguitarist/MyFitnessPal-SwiftUI"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/postguitarist/Tracked"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/postguitarist/MyFitnessPal-SwiftUI">View Demo</a>
+    <a href="https://github.com/postguitarist/Tracked">View Demo</a>
     ·
-    <a href="https://github.com/postguitarist/MyFitnessPal-SwiftUI/issues">Report Bug</a>
+    <a href="https://github.com/postguitarist/Tracked/issues">Report Bug</a>
     ·
-    <a href="https://github.com/postguitarist/MyFitnessPal-SwiftUI/issues">Request Feature</a>
+    <a href="https://github.com/postguitarist/Tracked/issues">Request Feature</a>
   </p>
 </div>
 
@@ -110,7 +110,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/postguitarist/MyFitnessPal-SwiftUI/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/postguitarist/Tracked/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -148,7 +148,7 @@ Distributed under the **** License. See `LICENSE.txt` for more information.
 
 Zaden Connell - [@ConnellZaden](https://twitter.com/ConnellZaden) - zaden.connell@gmail.com
 
-Project Link: [https://github.com/postguitarist/MyFitnessPal-SwiftUI](https://github.com/postguitarist/MyFitnessPal-SwiftUI)
+Project Link: [https://github.com/postguitarist/Tracked](https://github.com/postguitarist/Tracked)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -167,16 +167,16 @@ Project Link: [https://github.com/postguitarist/MyFitnessPal-SwiftUI](https://gi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/postguitarist/MyFitnessPal-SwiftUI.svg?style=for-the-badge
-[contributors-url]: https://github.com/postguitarist/MyFitnessPal-SwiftUI/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/postguitarist/MyFitnessPal-SwiftUI.svg?style=for-the-badge
-[forks-url]: https://github.com/postguitarist/MyFitnessPal-SwiftUI/network/members
-[stars-shield]: https://img.shields.io/github/stars/postguitarist/MyFitnessPal-SwiftUI.svg?style=for-the-badge
-[stars-url]: https://github.com/postguitarist/MyFitnessPal-SwiftUI/stargazers
-[issues-shield]: https://img.shields.io/github/issues/postguitarist/MyFitnessPal-SwiftUI.svg?style=for-the-badge
-[issues-url]: https://github.com/postguitarist/MyFitnessPal-SwiftUI/issues
-[license-shield]: https://img.shields.io/github/license/postguitarist/MyFitnessPal-SwiftUI.svg?style=for-the-badge
-[license-url]: https://github.com/postguitarist/MyFitnessPal-SwiftUI/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/postguitarist/Tracked.svg?style=for-the-badge
+[contributors-url]: https://github.com/postguitarist/Tracked/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/postguitarist/Tracked.svg?style=for-the-badge
+[forks-url]: https://github.com/postguitarist/Tracked/network/members
+[stars-shield]: https://img.shields.io/github/stars/postguitarist/Tracked.svg?style=for-the-badge
+[stars-url]: https://github.com/postguitarist/Tracked/stargazers
+[issues-shield]: https://img.shields.io/github/issues/postguitarist/Tracked.svg?style=for-the-badge
+[issues-url]: https://github.com/postguitarist/Tracked/issues
+[license-shield]: https://img.shields.io/github/license/postguitarist/Tracked.svg?style=for-the-badge
+[license-url]: https://github.com/postguitarist/Tracked/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zaden-connell
 [product-screenshot]: images/overview.png
