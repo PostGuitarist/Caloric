@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/postguitarist/MyFitnessPal-SwiftUI">
-    <img src="images/logo2.png" alt="Logo" width="100" height="50">
+    <img src="images/logo2.png" alt="Logo" width="300" height="150">
   </a>
 
 <h3 align="center">MyFitnessPal - SwiftUI</h3>
