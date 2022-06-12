@@ -17,10 +17,10 @@
     <img src="images/logo-main.png" alt="Logo" width="900" height="150">
   </a>
 
-<h3 align="center">MyFitnessPal - SwiftUI</h3>
+<h3 align="center">Tracked</h3>
 
   <p align="center">
-    Rewrite and redesign of the MyFitnessPal App using Apple's Swift language and SwiftUI framework
+    A new Calorie and Macro Tracking App using Apple's Swift language and SwiftUI framework
     <br />
     <a href="https://github.com/postguitarist/MyFitnessPal-SwiftUI"><strong>Explore the docs »</strong></a>
     <br />
