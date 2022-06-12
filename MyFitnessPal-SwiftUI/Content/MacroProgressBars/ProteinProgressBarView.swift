@@ -36,7 +36,7 @@ struct ProteinProgressBar: View {
                 .stroke(style: StrokeStyle(lineWidth: 8.0, lineCap: .round, lineJoin: .round))
                 .foregroundColor(Color.pink)
                 .rotationEffect(Angle(degrees: 270.0))
-                .animation(.linear)
+                //.animation(.linear)
             
             VStack {
                 Text(String(format: "%.0fg", min(self.progress, 1.0)*100.0))
