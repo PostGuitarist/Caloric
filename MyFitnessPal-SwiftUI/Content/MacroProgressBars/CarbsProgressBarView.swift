@@ -42,6 +42,7 @@ struct ProgressBar: View {
                 Text(String(format: "%.0fg", min(self.progress, 1.0)*100.0))
                     .font(.system(size: 15))
                     .bold()
+                    .foregroundColor(.black)
                 Text("Carbs")
                     .font(.system(size: 10))
                     .bold()

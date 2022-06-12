@@ -15,28 +15,27 @@ struct Diary_DinnerView: View {
                 Image(systemName: "3.circle")
                     .resizable()
                     .frame(width: 30, height: 30)
+                    .foregroundColor(.white)
                     .padding()
-                    .colorInvert()
                 
                 VStack(alignment: .leading) {
                     Text("Dinner")
                         .font(.title2)
                         .bold()
-                        .colorInvert()
-                    Text("400 cals")
+                        .foregroundColor(.white)
+                    Text("412 cals")
                         .font(.subheadline)
-                        .colorInvert()
+                        .foregroundColor(.white)
                 }
                 Spacer()
                 
                 Image(systemName: "plus.circle.fill")
                     .resizable()
                     .frame(width: 30, height: 30)
+                    .foregroundColor(.white)
                     .padding()
-                    .colorInvert()
             }
             .frame(width: 350, height: 385, alignment: .topLeading)
-            
         }
     }
 }

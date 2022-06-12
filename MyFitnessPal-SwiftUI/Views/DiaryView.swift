@@ -8,8 +8,9 @@
 import SwiftUI
 
 struct DiaryView: View {
+    
     var body: some View {
-        ScrollView {
+        ScrollView(showsIndicators: false) {
             VStack(spacing: 20) {
                 Diary_MacroGoalsView()
                 
@@ -21,9 +22,12 @@ struct DiaryView: View {
                 
                 Diary_SnacksView()
             }
+            .frame(width: 385)
         }
     }
 }
+
+
 
 struct DiaryView_Previews: PreviewProvider {
     static var previews: some View {

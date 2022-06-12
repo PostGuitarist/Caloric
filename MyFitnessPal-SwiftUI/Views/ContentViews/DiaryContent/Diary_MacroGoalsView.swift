@@ -17,6 +17,7 @@ struct Diary_MacroGoalsView: View {
                 HStack(alignment: .center, spacing: 150) {
                     Text("Macro Goals")
                         .font(.title2.bold())
+                        .foregroundColor(.black)
                     
                     Image(systemName: "ellipsis")
                         .foregroundColor(Color.blue)
@@ -25,7 +26,6 @@ struct Diary_MacroGoalsView: View {
                 
                 HStack(alignment: .center, spacing: 40) {
                     CarbsProgressBarView()
-                        
                         .frame(width: 75, height: 75)
                     ProteinProgressBarView()
                         .frame(width: 75, height: 75)
