@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct FatProgressBarView: View {
-    @State var progressValue: Float = 0.28
+    @State var progressValue: Float = 0.50
     
     var body: some View {
         ZStack {

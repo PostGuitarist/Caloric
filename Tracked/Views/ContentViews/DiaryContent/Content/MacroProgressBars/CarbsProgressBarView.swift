@@ -1,5 +1,5 @@
 //
-//  ProteinProgressBarView.swift
+//  CarbsProgressBarView.swift
 //  Tracked
 //
 //  Created by Zaden Connell on 6/9/22.
@@ -7,13 +7,13 @@
 
 import SwiftUI
 
-struct ProteinProgressBarView: View {
-    @State var progressValue: Float = 0.28
+struct CarbsProgressBarView: View {
+    @State var progressValue: Float = 0.85
     
     var body: some View {
         ZStack {
             VStack {
-                ProteinProgressBar(progress: self.$progressValue)
+                ProgressBar(progress: self.$progressValue)
                     .frame(width: 60.0, height: 60.0)
                     .padding(40.0)
             }
@@ -21,7 +21,7 @@ struct ProteinProgressBarView: View {
     }
 }
 
-struct ProteinProgressBar: View {
+struct ProgressBar: View {
     @Binding var progress: Float
     
     var body: some View {
@@ -29,12 +29,12 @@ struct ProteinProgressBar: View {
             Circle()
                 .stroke(lineWidth: 8.0)
                 .opacity(0.3)
-                .foregroundColor(Color.pink)
+                .foregroundColor(Color.teal)
             
             Circle()
                 .trim(from: 0.0, to: CGFloat(min(self.progress, 1.0)))
                 .stroke(style: StrokeStyle(lineWidth: 8.0, lineCap: .round, lineJoin: .round))
-                .foregroundColor(Color.pink)
+                .foregroundColor(Color.mint)
                 .rotationEffect(Angle(degrees: 270.0))
                 //.animation(.linear)
             
@@ -43,17 +43,19 @@ struct ProteinProgressBar: View {
                     .font(.system(size: 15))
                     .bold()
                     .foregroundColor(.black)
-                Text("Protein")
+                Text("Carbs")
                     .font(.system(size: 10))
                     .bold()
                     .foregroundColor(Color.gray)
+
             }
         }
     }
 }
 
-struct ProteinProgressBarView_Previews: PreviewProvider {
+
+struct CarbsProgressBarView_Previews: PreviewProvider {
     static var previews: some View {
-        ProteinProgressBarView()
+        CarbsProgressBarView()
     }
 }

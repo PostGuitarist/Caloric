@@ -11,6 +11,7 @@
 		0C603E852852AE1700762A98 /* ProteinProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C603E842852AE1700762A98 /* ProteinProgressBarView.swift */; };
 		0C603E872852AEAE00762A98 /* FatProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C603E862852AEAE00762A98 /* FatProgressBarView.swift */; };
 		0C61C34128564BD200F7088A /* DiaryContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C61C34028564BD200F7088A /* DiaryContentView.swift */; };
+		0C83C8AC285685D800277029 /* WalkingProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C83C8AB285685D800277029 /* WalkingProgressBarView.swift */; };
 		0C898FD72842A61A00D93058 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C898FD62842A61A00D93058 /* HomeView.swift */; };
 		0C898FD92842A62C00D93058 /* DiaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C898FD82842A62C00D93058 /* DiaryView.swift */; };
 		0C898FDB2842A63700D93058 /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C898FDA2842A63700D93058 /* ProgressView.swift */; };
@@ -37,6 +38,7 @@
 		0C603E842852AE1700762A98 /* ProteinProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProteinProgressBarView.swift; sourceTree = "<group>"; };
 		0C603E862852AEAE00762A98 /* FatProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FatProgressBarView.swift; sourceTree = "<group>"; };
 		0C61C34028564BD200F7088A /* DiaryContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryContentView.swift; sourceTree = "<group>"; };
+		0C83C8AB285685D800277029 /* WalkingProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalkingProgressBarView.swift; sourceTree = "<group>"; };
 		0C898FD62842A61A00D93058 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		0C898FD82842A62C00D93058 /* DiaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryView.swift; sourceTree = "<group>"; };
 		0C898FDA2842A63700D93058 /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
@@ -101,6 +103,14 @@
 			path = MainBox;
 			sourceTree = "<group>";
 		};
+		0C83C8AD285685DD00277029 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				0C83C8AB285685D800277029 /* WalkingProgressBarView.swift */,
+			);
+			path = Content;
+			sourceTree = "<group>";
+		};
 		0C98CD59284AACBE004DD565 /* ContentViews */ = {
 			isa = PBXGroup;
 			children = (
@@ -119,6 +129,7 @@
 				0C98CD5C284AAD4E004DD565 /* Home_WaterView.swift */,
 				0C98CD5E284AAD60004DD565 /* Home_WalkingView.swift */,
 				0C98CD60284AAD6A004DD565 /* Home_ExerciseView.swift */,
+				0C83C8AD285685DD00277029 /* Content */,
 			);
 			path = HomeContent;
 			sourceTree = "<group>";
@@ -132,6 +143,7 @@
 				0C98CD69284AADF1004DD565 /* Diary_DinnerView.swift */,
 				0C98CD6B284AADFD004DD565 /* Diary_SnacksView.swift */,
 				0C61C34228564BD400F7088A /* MainBox */,
+				0CACCAE828526FE2005540C7 /* Content */,
 			);
 			path = DiaryContent;
 			sourceTree = "<group>";
@@ -165,7 +177,6 @@
 			children = (
 				0CC621CD283AD5CB00A88957 /* TrackedApp.swift */,
 				0C44303E2842A446005823A1 /* Views */,
-				0CACCAE828526FE2005540C7 /* Content */,
 				0CC621D1283AD5CD00A88957 /* Assets.xcassets */,
 				0CC621D3283AD5CD00A88957 /* Preview Content */,
 			);
@@ -257,6 +268,7 @@
 				0C98CD61284AAD6A004DD565 /* Home_ExerciseView.swift in Sources */,
 				0C603E7C2852A95800762A98 /* CarbsProgressBarView.swift in Sources */,
 				0C898FDD2842A63F00D93058 /* MoreView.swift in Sources */,
+				0C83C8AC285685D800277029 /* WalkingProgressBarView.swift in Sources */,
 				0C603E872852AEAE00762A98 /* FatProgressBarView.swift in Sources */,
 				0C98CD68284AADEA004DD565 /* Diary_LunchView.swift in Sources */,
 				0CC621D0283AD5CB00A88957 /* ContentView.swift in Sources */,
