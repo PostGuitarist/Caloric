@@ -9,7 +9,35 @@ import SwiftUI
 
 struct Diary_LunchView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        ZStack {
+            DiaryContentView()
+            HStack {
+                Image(systemName: "2.circle")
+                    .resizable()
+                    .frame(width: 30, height: 30)
+                    .padding()
+                    .colorInvert()
+                
+                VStack(alignment: .leading) {
+                    Text("Lunch")
+                        .font(.title2)
+                        .bold()
+                        .colorInvert()
+                    Text("406 cals")
+                        .font(.subheadline)
+                        .colorInvert()
+                }
+                Spacer()
+                
+                Image(systemName: "plus.circle.fill")
+                    .resizable()
+                    .frame(width: 30, height: 30)
+                    .padding()
+                    .colorInvert()
+            }
+            .frame(width: 350, height: 385, alignment: .topLeading)
+            
+        }
     }
 }
 

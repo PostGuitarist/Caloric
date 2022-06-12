@@ -12,6 +12,14 @@ struct DiaryView: View {
         ScrollView {
             VStack(spacing: 20) {
                 Diary_MacroGoalsView()
+                
+                Diary_BreakfastView()
+                
+                Diary_LunchView()
+                
+                Diary_DinnerView()
+                
+                Diary_SnacksView()
             }
         }
     }
