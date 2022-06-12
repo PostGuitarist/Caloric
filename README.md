@@ -20,7 +20,10 @@
 <h3 align="center">Tracked</h3>
 
   <p align="center">
-    Calorie and Macro Tracking App using Apple's Swift language and SwiftUI framework. Based loosely on the MyFitnessPal App.
+    Calorie and Macro Tracking App using Apple's Swift language and SwiftUI framework.
+    <br />
+    Based loosely on the MyFitnessPal App.
+    <br />
     <br />
     <a href="https://github.com/postguitarist/Tracked"><strong>Explore the docs »</strong></a>
     <br />
