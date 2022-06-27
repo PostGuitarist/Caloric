@@ -31,6 +31,8 @@
 		0CC621D0283AD5CB00A88957 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CC621CF283AD5CB00A88957 /* ContentView.swift */; };
 		0CC621D2283AD5CD00A88957 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CC621D1283AD5CD00A88957 /* Assets.xcassets */; };
 		0CC621D5283AD5CD00A88957 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CC621D4283AD5CD00A88957 /* Preview Assets.xcassets */; };
+		0CD9140A286A4C39003780F1 /* FoodRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD91409286A4C39003780F1 /* FoodRow.swift */; };
+		0CD9140D286A4C63003780F1 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CD9140C286A4C63003780F1 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +61,8 @@
 		0CC621CF283AD5CB00A88957 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0CC621D1283AD5CD00A88957 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0CC621D4283AD5CD00A88957 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0CD91409286A4C39003780F1 /* FoodRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodRow.swift; sourceTree = "<group>"; };
+		0CD9140C286A4C63003780F1 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -175,10 +179,12 @@
 		0CC621CC283AD5CB00A88957 /* Tracked */ = {
 			isa = PBXGroup;
 			children = (
-				0CC621CD283AD5CB00A88957 /* TrackedApp.swift */,
+				0CD9140B286A4C45003780F1 /* Components */,
 				0C44303E2842A446005823A1 /* Views */,
+				0CC621CD283AD5CB00A88957 /* TrackedApp.swift */,
 				0CC621D1283AD5CD00A88957 /* Assets.xcassets */,
 				0CC621D3283AD5CD00A88957 /* Preview Content */,
+				0CD9140C286A4C63003780F1 /* Extensions.swift */,
 			);
 			path = Tracked;
 			sourceTree = "<group>";
@@ -189,6 +195,14 @@
 				0CC621D4283AD5CD00A88957 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0CD9140B286A4C45003780F1 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				0CD91409286A4C39003780F1 /* FoodRow.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -266,6 +280,7 @@
 				0C98CD66284AADE2004DD565 /* Diary_BreakfastView.swift in Sources */,
 				0C898FD72842A61A00D93058 /* HomeView.swift in Sources */,
 				0C98CD61284AAD6A004DD565 /* Home_ExerciseView.swift in Sources */,
+				0CD9140A286A4C39003780F1 /* FoodRow.swift in Sources */,
 				0C603E7C2852A95800762A98 /* CarbsProgressBarView.swift in Sources */,
 				0C898FDD2842A63F00D93058 /* MoreView.swift in Sources */,
 				0C83C8AC285685D800277029 /* WalkingProgressBarView.swift in Sources */,
@@ -279,6 +294,7 @@
 				0C98CD5D284AAD4E004DD565 /* Home_WaterView.swift in Sources */,
 				0C98CD5B284AAD42004DD565 /* Home_Nutrition.swift in Sources */,
 				0C898FDF2842AE9C00D93058 /* TopControlView.swift in Sources */,
+				0CD9140D286A4C63003780F1 /* Extensions.swift in Sources */,
 				0C898FDB2842A63700D93058 /* ProgressView.swift in Sources */,
 				0C898FD92842A62C00D93058 /* DiaryView.swift in Sources */,
 				0C98CD6A284AADF1004DD565 /* Diary_DinnerView.swift in Sources */,
