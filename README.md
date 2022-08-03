@@ -70,7 +70,8 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+*Render design by Kevin Bhagat. (https://dribbble.com/kevinbhagat)
+**App clone based on render, not render on app.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
