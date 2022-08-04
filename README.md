@@ -88,8 +88,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Clone this project onto your local computer, whichever folder you prefer. Then open the .xcodeproj file into Xcode. This app is built using the latest Xcode version. Run either in the simulator or sideload it onto your iPhone.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -98,7 +97,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This is an example app based on the MyFitnessPal app. This can be used for personal macro tracking or other uses, per the GPLv3 liscense. This project was originally created for the use of learning Swift and SwiftUI.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -109,10 +108,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
+<!-- - [ ] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
+-->
+- [ ] Actually make it functional
 
 See the [open issues](https://github.com/postguitarist/Tracked/issues) for a full list of proposed features (and known issues).
 
@@ -161,9 +162,7 @@ Project Link: [https://github.com/postguitarist/Tracked](https://github.com/post
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* []()Kevin Bhagat. (https://dribbble.com/kevinbhagat)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
