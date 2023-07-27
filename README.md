@@ -13,11 +13,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/postguitarist/Tracked">
+  <a href="https://github.com/postguitarist/Caloric">
     <img src="images/logo-main.png" alt="Logo" width="900" height="150">
   </a>
 
-<h3 align="center">Tracked</h3>
+<h3 align="center">Caloric</h3>
 
   <p align="center">
     A Calorie and Macro Tracking App using Apple's Swift language and SwiftUI framework.
@@ -25,14 +25,14 @@
     A redesigned clone of MyFitnessPal.
     <br />
     <br />
-    <a href="https://github.com/postguitarist/Tracked"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/postguitarist/Caloric"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/postguitarist/Tracked">View Demo</a>
+    <a href="https://github.com/postguitarist/Caloric">View Demo</a>
     ·
-    <a href="https://github.com/postguitarist/Tracked/issues">Report Bug</a>
+    <a href="https://github.com/postguitarist/Caloric/issues">Report Bug</a>
     ·
-    <a href="https://github.com/postguitarist/Tracked/issues">Request Feature</a>
+    <a href="https://github.com/postguitarist/Caloric/issues">Request Feature</a>
   </p>
 </div>
 
@@ -115,7 +115,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 -->
 - [ ] Actually make it functional
 
-See the [open issues](https://github.com/postguitarist/Tracked/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/users/PostGuitarist/projects/1) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -131,7 +131,7 @@ Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+3. Commit your Changes (`git commit -m 'add: some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
@@ -153,7 +153,7 @@ Distributed under the GNU GPLv3 License. See `LICENSE.txt` for more information.
 
 Zaden Connell - [@ConnellZaden](https://twitter.com/ConnellZaden) - zaden.connell@gmail.com
 
-Project Link: [https://github.com/postguitarist/Tracked](https://github.com/postguitarist/Tracked)
+Project Link: [https://github.com/postguitarist/Caloric](https://github.com/postguitarist/Caloric)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -170,16 +170,16 @@ Project Link: [https://github.com/postguitarist/Tracked](https://github.com/post
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/postguitarist/Tracked.svg?style=for-the-badge
-[contributors-url]: https://github.com/postguitarist/Tracked/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/postguitarist/Tracked.svg?style=for-the-badge
-[forks-url]: https://github.com/postguitarist/Tracked/network/members
-[stars-shield]: https://img.shields.io/github/stars/postguitarist/Tracked.svg?style=for-the-badge
-[stars-url]: https://github.com/postguitarist/Tracked/stargazers
-[issues-shield]: https://img.shields.io/github/issues/postguitarist/Tracked.svg?style=for-the-badge
-[issues-url]: https://github.com/postguitarist/Tracked/issues
-[license-shield]: https://img.shields.io/github/license/postguitarist/Tracked.svg?style=for-the-badge
-[license-url]: https://github.com/postguitarist/Tracked/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/postguitarist/Caloric.svg?style=for-the-badge
+[contributors-url]: https://github.com/postguitarist/Caloric/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/postguitarist/Caloric.svg?style=for-the-badge
+[forks-url]: https://github.com/postguitarist/Caloric/network/members
+[stars-shield]: https://img.shields.io/github/stars/postguitarist/Caloric.svg?style=for-the-badge
+[stars-url]: https://github.com/postguitarist/Caloric/stargazers
+[issues-shield]: https://img.shields.io/github/issues/postguitarist/Caloric.svg?style=for-the-badge
+[issues-url]: https://github.com/postguitarist/Caloric/issues
+[license-shield]: https://img.shields.io/github/license/postguitarist/Caloric.svg?style=for-the-badge
+[license-url]: https://github.com/postguitarist/Caloric/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zaden-connell
 [product-screenshot]: images/overview.png
