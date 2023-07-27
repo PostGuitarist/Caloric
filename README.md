@@ -25,14 +25,14 @@
     A redesigned clone of MyFitnessPal.
     <br />
     <br />
-    <a href="https://github.com/postguitarist/Caloric"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/PostGuitarist/Caloric/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/postguitarist/Caloric">View Demo</a>
     ·
     <a href="https://github.com/postguitarist/Caloric/issues">Report Bug</a>
     ·
-    <a href="https://github.com/postguitarist/Caloric/issues">Request Feature</a>
+    <a href="https://github.com/PostGuitarist/Caloric/discussions/categories/ideas">Request Feature</a>
   </p>
 </div>
 
@@ -97,9 +97,9 @@ Clone this project onto your local computer, whichever folder you prefer. Then o
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This is an example app based on the MyFitnessPal app. This can be used for personal macro tracking or other uses, per the GPLv3 liscense. This project was originally created for the use of learning Swift and SwiftUI.
+This can be used for personal macro tracking or other uses, per the GPLv3 liscense. This project was originally created for the use of learning Swift and SwiftUI.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/PostGuitarist/Caloric/wiki)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -107,15 +107,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Roadmap
-
-<!-- - [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
--->
-- [ ] Actually make it functional
-
-See the [open issues](https://github.com/users/PostGuitarist/projects/1) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/users/PostGuitarist/projects/11) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
