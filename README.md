@@ -115,7 +115,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 -->
 - [ ] Actually make it functional
 
-See the [open issues](https://github.com/users/PostGuitarist/projects/1) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/users/PostGuitarist/projects/11) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
