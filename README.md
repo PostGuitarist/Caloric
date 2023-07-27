@@ -13,9 +13,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/postguitarist/Caloric">
-    <img src="images/logo-main.png" alt="Logo" width="900" height="150">
-  </a>
+  <!-- <a href="https://github.com/postguitarist/Caloric">
+    <img src="images/logo-main.png" alt="Logo" width="900" height="150"> 
+  </a> -->
 
 <h3 align="center">Caloric</h3>
 
